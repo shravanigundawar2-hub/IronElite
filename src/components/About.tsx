@@ -39,7 +39,7 @@ export default function About() {
           >
             <div className="relative z-10 rounded-2xl overflow-hidden border border-white/10 max-w-[90%] mx-auto lg:mx-0 shadow-2xl shadow-brand-red/10">
               <img
-                src="https://images.pexels.com/photos/6046978/pexels-photo-6046978.png"
+                src="https://images.pexels.com/photos/6046978/pexels-photo-6046978.png?auto=compress&cs=tinysrgb&w=1280"
                 alt="Gym Interior"
                 className="w-full aspect-[4/5] object-cover hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
