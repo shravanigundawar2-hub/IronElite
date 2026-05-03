@@ -6,25 +6,25 @@ const trainers = [
   {
     name: 'Marcus Thorne',
     role: 'Head Strength Coach',
-    image: 'https://images.pexels.com/photos/31918834/pexels-photo-31918834.jpeg',
+    image: 'https://images.pexels.com/photos/31918834/pexels-photo-31918834.jpeg?auto=compress&cs=tinysrgb&w=600',
     socials: ['instagram', 'twitter', 'linkedin']
   },
   {
     name: 'Elena Rodriguez',
     role: 'HIIT Specialist',
-    image: 'https://images.pexels.com/photos/6572562/pexels-photo-6572562.jpeg',
+    image: 'https://images.pexels.com/photos/6572562/pexels-photo-6572562.jpeg?auto=compress&cs=tinysrgb&w=600',
     socials: ['instagram', 'twitter']
   },
   {
     name: 'David Chen',
     role: 'Bodybuilding Pro',
-    image: 'https://images.pexels.com/photos/32085164/pexels-photo-32085164.jpeg',
+    image: 'https://images.pexels.com/photos/32085164/pexels-photo-32085164.jpeg?auto=compress&cs=tinysrgb&w=600',
     socials: ['instagram', 'linkedin']
   },
   {
     name: 'Sarah Jenkins',
     role: 'Nutrition & Wellness',
-    image: 'https://images.pexels.com/photos/20044146/pexels-photo-20044146.jpeg',
+    image: 'https://images.pexels.com/photos/20044146/pexels-photo-20044146.jpeg?auto=compress&cs=tinysrgb&w=600',
     socials: ['instagram', 'twitter', 'linkedin']
   }
 ];
