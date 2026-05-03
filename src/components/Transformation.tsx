@@ -6,15 +6,15 @@ const transformations = [
     name: 'John Doe',
     time: '6 Months',
     desc: 'Lost 25kg and gained significant muscle mass.',
-    before: 'https://images.pexels.com/photos/30283461/pexels-photo-30283461.jpeg',
-    after: 'https://images.pexels.com/photos/30165254/pexels-photo-30165254.jpeg'
+    before: 'https://images.pexels.com/photos/30283461/pexels-photo-30283461.jpeg?auto=compress&cs=tinysrgb&w=600',
+    after: 'https://images.pexels.com/photos/30165254/pexels-photo-30165254.jpeg?auto=compress&cs=tinysrgb&w=600'
   },
   {
     name: 'Emily Smith',
     time: '4 Months',
     desc: 'Achieved peak athletic performance and core strength.',
-    before: 'https://images.pexels.com/photos/32996770/pexels-photo-32996770.jpeg',
-    after: 'https://images.pexels.com/photos/17959562/pexels-photo-17959562.jpeg'
+    before: 'https://images.pexels.com/photos/32996770/pexels-photo-32996770.jpeg?auto=compress&cs=tinysrgb&w=600',
+    after: 'https://images.pexels.com/photos/17959562/pexels-photo-17959562.jpeg?auto=compress&cs=tinysrgb&w=600'
   }
 ];
 
