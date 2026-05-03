@@ -8,28 +8,28 @@ const testimonials = [
     role: 'Business Executive',
     content: "The atmosphere at Iron Elite is unmatched. It's not just a gym; it's a high-performance sanctuary. The trainers truly care about your progress.",
     rating: 5,
-    avatar: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg'
+    avatar: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=200'
   },
   {
     name: 'Jane Cooper',
     role: 'Professional Athlete',
     content: "State-of-the-art equipment and elite coaching. I've seen more progress here in 3 months than I did in a year elsewhere.",
     rating: 5,
-    avatar: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg'
+    avatar: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=200'
   },
   {
     name: 'Cody Fisher',
     role: 'Fitness Enthusiast',
     content: "The luxury amenities combined with the hardcore training vibe is exactly what I was looking for. Highly recommended!",
     rating: 5,
-    avatar: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg'
+    avatar: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=200'
   },
   {
     name: 'Guy Hawkins',
     role: 'Marathon Runner',
     content: "The endurance programs here are world-class. I've shaved 15 minutes off my personal best thanks to the strength training.",
     rating: 5,
-    avatar: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg'
+    avatar: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=200'
   },
   {
     name: 'Leslie Alexander',
