@@ -8,7 +8,7 @@ export default function Hero() {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://images.pexels.com/photos/10929340/pexels-photo-10929340.jpeg"
+          src="https://images.pexels.com/photos/10929340/pexels-photo-10929340.jpeg?auto=compress&cs=tinysrgb&w=1280"
           alt="Gym Background"
           className="w-full h-full object-cover opacity-60 scale-105 animate-slow-zoom"
           referrerPolicy="no-referrer"
